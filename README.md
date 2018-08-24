@@ -2,13 +2,15 @@
 This is a personal project of building a self balancing robot like an inverted pendelum.   
 
 ## Hardware
-- Microcontroller: Arudino UNO
+- **Microcontroller**: Arudino UNO
 
-- Motor Controller: L298N H-bridge module
+- **Motor Controller**: L298N H-bridge module
 
-- Motor: DC-motor with endcoder (Encoder not used for this project)
+- **Motor**: DC-motor with endcoder (Encoder not used for this project)
 
-- Power: 3-cell LIPO
+- **Power**: 3-cell LIPO
+
+- **Body**: The body consists of 4 layers of 3D-printed platforms connected with stand-off screws. The 3D models are available as .STL files. 
 
 
 
